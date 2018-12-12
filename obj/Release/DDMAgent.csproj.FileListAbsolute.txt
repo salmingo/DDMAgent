@@ -1,0 +1,14 @@
+C:\Workspace\DDMAgent\bin\Release\DDMAgent.exe.config
+C:\Workspace\DDMAgent\bin\Release\DDMAgent.exe
+C:\Workspace\DDMAgent\bin\Release\DDMAgent.pdb
+C:\Workspace\DDMAgent\bin\Release\ASCOM.DeviceInterfaces.dll
+C:\Workspace\DDMAgent\bin\Release\ASCOM.DriverAccess.dll
+C:\Workspace\DDMAgent\bin\Release\ASCOM.Utilities.dll
+C:\Workspace\DDMAgent\bin\Release\ASCOM.Exceptions.dll
+C:\Workspace\DDMAgent\obj\Release\DDMAgent.csprojResolveAssemblyReference.cache
+C:\Workspace\DDMAgent\obj\Release\DDMAgent.frmMain.resources
+C:\Workspace\DDMAgent\obj\Release\DDMAgent.frmSystem.resources
+C:\Workspace\DDMAgent\obj\Release\DDMAgent.Properties.Resources.resources
+C:\Workspace\DDMAgent\obj\Release\DDMAgent.csproj.GenerateResource.Cache
+C:\Workspace\DDMAgent\obj\Release\DDMAgent.exe
+C:\Workspace\DDMAgent\obj\Release\DDMAgent.pdb

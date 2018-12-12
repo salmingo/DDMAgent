@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Configuration>
+  <ID>
+    <Add Keyword="Group" Value="002" />
+    <Add Keyword="Unit" Value="001" />
+  </ID>
+<Server><Add Keyword="IP" Value="10.36.1.207" /><Add Keyword="Port" Value="4011" /></Server>
+<NTP><Add Keyword="IP" Value="172.28.1.9" /><Add Keyword="ClockSync" Value="True" /></NTP>
+<Instrument><Add Keyword="Telescope" Value="AstrooptikServer.Telescope" /><Add Keyword="Focuser" Value="ASCOM.Simulator.Focuser" /></Instrument>
+</Configuration>
